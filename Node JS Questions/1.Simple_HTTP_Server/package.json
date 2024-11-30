@@ -1,0 +1,10 @@
+{
+    "name": "simple-server",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node simpleServer.js" 
+    },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
